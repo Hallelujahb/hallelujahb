@@ -1,9 +1,15 @@
-# Hallelujah Ezra Beyene
+Computer Science student at Addis Ababa University | AI Research Intern.
 
-Selected projects and research in machine learning, computer vision, and OCR.
+Interests:
+- Computer Vision & Optical Character Recognition (OCR)
+- Machine Learning & Neuro-Symbolic AI
+- Data Pipelines & Entity Resolution
 
-## Selected work
+Currently researching handwritten Amharic text recognition and cognitive architectures.
 
+📍 Addis Ababa, Ethiopia
+
+### Selected Projects
 - [Handwritten Amharic OCR](https://github.com/Hallelujahb/amharic-htr-research)
-- [Relink Studio](https://github.com/Hallelujahb/relink-studio)
+- [Relink Studio](https://github.com/Hallelujahb/relink-studio) 
 - [Kaza Credit](https://github.com/Hallelujahb/credit-score-predictor)
