@@ -9,7 +9,7 @@ Currently researching handwritten Amharic text recognition and cognitive archite
 
 📍 Addis Ababa, Ethiopia
 
-##Selected Projects
+Selected Projects:
 - [Handwritten Amharic OCR](https://github.com/Hallelujahb/amharic-htr-research)
 - [Relink Studio](https://github.com/Hallelujahb/relink-studio) 
 - [Kaza Credit](https://github.com/Hallelujahb/credit-score-predictor)
